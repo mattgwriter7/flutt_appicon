@@ -2,7 +2,9 @@
 How to make an App Icon in Android
 
 ## LEFT OFF
-* basic structure
+* added icon
 
 ## NEXT STEPS
-* add package and do it!
+* ?
+TO USE AT CMD LINE ENTER:
+flutter pub run flutter_launcher_icons:main
