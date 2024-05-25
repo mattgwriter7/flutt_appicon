@@ -6,5 +6,6 @@ How to make an App Icon in Android
 
 ## NEXT STEPS
 * ?
+* 
 TO USE AT CMD LINE ENTER:
-flutter pub run flutter_launcher_icons:main
+flutter pub run flutter_launcher_icons:main  
